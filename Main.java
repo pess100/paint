@@ -1,4 +1,4 @@
-//package com.company;
+////package com.company;
 
 import java.util.Scanner;
 
@@ -42,7 +42,7 @@ public class Main {
 
         }System.out.println(a1+b1+a1);
 
-    }
+    }// edit
 
 
 
